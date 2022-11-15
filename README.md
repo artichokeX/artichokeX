@@ -1,13 +1,13 @@
-# 🇺🇸 Kurt Miller | ![](https://komarev.com/ghpvc/?username=kurtmilla1994&color=blue&)
+# 🇺🇸 Kurt Miller | ![](https://komarev.com/ghpvc/?username=artichokeX&color=blue&)
 
 **`I'm a Cyber Security Analyst/Engineer`**
 
 <p align="left">
-    <a href="https://github.com/thesbx?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/kurtmilla1994?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    <a href="https://github.com/artichokeX?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/artichokeX?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
     </a>
-    <a href="https://github.com/thesbx?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/kurtmilla1994?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+    <a href="https://github.com/artichokeX?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/artichokeX?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
     </a>
 </p>
 
@@ -32,6 +32,6 @@
 ---
 ### 📊 Stats
 
-[![Kurt's GitHub stats](https://github-readme-stats.vercel.app/api?username=kurtmilla1994&show_icons=true&theme=onedark&count_private=true&hide_border=true)](https://github.com/kurtmilla1994)
+[![Kurt's GitHub stats](https://github-readme-stats.vercel.app/api?username=artichokeX&show_icons=true&theme=onedark&count_private=true&hide_border=true)](https://github.com/artichokeX)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kurtmilla1994&layout=compact&theme=onedark&count_private=true&hide_border=true)](https://github.com/kurtmilla1994)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artichokeX&layout=compact&theme=onedark&count_private=true&hide_border=true)](https://github.com/artichokeX)
