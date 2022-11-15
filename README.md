@@ -34,4 +34,4 @@
 
 [![Kurt's GitHub stats](https://github-readme-stats.vercel.app/api?username=kurtmilla1994&show_icons=true&theme=onedark&count_private=true&hide_border=true)](https://github.com/kurtmilla1994)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kurtmilla1994&layout=compact&theme=onedark&count_private=true&hide_border=true)](https://github.com/kurtmilla1994)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kurtmilla1994&layout=compact&theme=onedark&count_private=false&hide_border=true)](https://github.com/kurtmilla1994)
